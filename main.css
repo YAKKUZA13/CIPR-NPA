@@ -1,0 +1,73 @@
+.Menu{
+    background: #143f8e;
+    font-family: 'Oswald',sans-serif;
+    font-size: 1rem;
+    min-height: 2.75rem;
+    display: flex;
+    align-items: center;
+    text-decoration: none;    
+    font-size: 18px;
+    border-radius: 0px 40px 40px 0px
+   
+}
+
+.Sylc-head{
+    margin: 5px;
+    color: #ffffff;
+    text-decoration: none;
+    text-shadow: #807c7c 3px 5px 2px, -7px -8px 3px rgba(230, 160, 139, 0);
+ }
+
+ .Sylc-head:hover{
+    color: #000000;
+ }
+
+
+
+
+body{
+background: #e3e3fb;
+}
+
+.c-button {
+    position: relative;
+    min-width: 100px;
+    font-family: inherit;
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #143f8e;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 5px;
+    top: -100%;
+    font-size: 16px;
+  }
+  
+  .c-button:hover {
+    background: #1a53bb;
+  }
+  
+  .c-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #113578;
+  }
+
+.Osn{
+   color: #fff;
+}
+
+.Err{
+    position: relative;
+    display: flex;
+    background: #fff;
+    color: #000000;
+    font-family: 'Oswald',sans-serif;
+    height: 30em;
+    width: 50em;
+    left: 10%;
+    margin: 5px;
+    
+}
